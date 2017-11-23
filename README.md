@@ -1,4 +1,4 @@
-# Android_Video_Eclipse
+# Android_VideoDemo
 ##说明
 * MediaPlayer播放测试
 * VideoView播放测试
